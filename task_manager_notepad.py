@@ -132,22 +132,3 @@ task_list.pack(pady=10)
 display_tasks()
 
 root.mainloop()
-
-
-# In[ ]:
-
-
-
-
-
-# In[8]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
